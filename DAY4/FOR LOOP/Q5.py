@@ -1,0 +1,1 @@
+# 5.	Print Patterns: Create a pattern using nested for loops, such as a triangle or a square, and print it.

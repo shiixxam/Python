@@ -1,0 +1,1 @@
+# 3.	Multiplication Table: Generate and print the multiplication table for a number entered by the user using a for loop.
