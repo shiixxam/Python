@@ -7,3 +7,5 @@ fruits = ["apple", "banana", "cherry", "date"]
 copied_fruits = fruits.copy()
 
 print(copied_fruits)
+
+
