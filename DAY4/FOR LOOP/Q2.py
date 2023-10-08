@@ -2,7 +2,6 @@
 
 
 a=("even")
-
-# if a %  2==0:
-    for even in range(1,21):
-        print(even)
+for a in range(1,21):
+    if a %  2==0:
+     print(a)

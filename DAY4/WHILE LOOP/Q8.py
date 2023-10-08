@@ -1,0 +1,1 @@
+# 8.	Fibonacci Series: Generate and print the first N numbers in the Fibonacci series using a while loop.
