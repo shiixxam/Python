@@ -1,0 +1,4 @@
+hello,this is a simple message through file handling
+ this is a new line added through append method . this is a new line added through append method . this is a new line added through append method .
+ this is a new line added through append method .
+ this is a new line added through append method . this is a new line added through append method. this is a new line added through append method. this is a new line added through append method.this is a new line added through append method.this is a new line added through append method.this is a new line added through append method.
