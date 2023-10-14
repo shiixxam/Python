@@ -1,0 +1,20 @@
+
+  What is OOP?
+1.	Question: What does OOP stand for, and why was it developed?
+Explanation: OOP stands for Object-Oriented Programming. It was developed to better model real-world entities, their attributes, and behaviors in software development.
+2.	Question: Describe the core concept of OOP in a few words.
+Explanation: The core concept of OOP is the organization of code into reusable, selfcontained objects that encapsulate both data (attributes) and behavior (methods).
+3.	Question: What is an object in the context of OOP?
+Explanation: An object is an instance of a class in OOP. It represents a specific realworld entity and contains data (attributes) and methods to manipulate that data.
+4.	Question: What is a class, and how is it related to objects in OOP?
+Explanation: A class is a blueprint or template for creating objects. It defines the structure and behavior that objects of that class will have.
+5.	Question: List three key principles of OOP.
+Explanation: Three key principles of OOP are encapsulation, inheritance, and polymorphism. Encapsulation bundles data and methods into objects, inheritance allows for creating new classes based on existing ones, and polymorphism enables objects to be treated as instances of their parent class.
+6.	Question: How does OOP promote code reusability and maintainability?
+Explanation: OOP promotes code reusability by allowing the creation of objects from reusable classes. It enhances maintainability by organizing code into modular and selfcontained units (objects).
+7.	Question: What is the role of encapsulation in OOP, and why is it important? Explanation: Encapsulation hides the internal details of an object and provides controlled access to its attributes and methods. It's important for data protection, preventing unauthorized access, and maintaining a clear interface for the object.
+8.	Question: Explain the concept of inheritance and its benefits in OOP.
+Explanation: Inheritance allows you to create new classes (subclasses) based on existing classes (superclasses). It promotes code reuse, extensibility, and the organization of classes into hierarchical structures.
+9.	Question: How does polymorphism enhance flexibility in OOP?
+Explanation: Polymorphism allows objects of different classes to be treated as objects of a common base class. This flexibility simplifies code and supports dynamic method dispatch, making it easier to work with different object types.
+10.	Question: Provide an example of how OOP can be applied to a real-world problem. Explanation: Consider modeling a library system using OOP. You can create classes for books, patrons, and library staff, each with their attributes and methods, to represent and manage the library's entities and operations.

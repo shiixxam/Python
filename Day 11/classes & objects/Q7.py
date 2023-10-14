@@ -1,0 +1,1 @@
+# 7.	Question: What is the significance of the self parameter in Python class methods?

@@ -1,0 +1,1 @@
+# 8.	Question: Explain the concept of inheritance and how it is implemented in Python classes

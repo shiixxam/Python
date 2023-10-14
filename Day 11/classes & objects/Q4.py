@@ -1,0 +1,1 @@
+# 4.	Question: How do you create an object from a class in Python?

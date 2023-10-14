@@ -1,0 +1,1 @@
+# 6.	Question: Describe the role of methods in a class. Provide an example.

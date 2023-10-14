@@ -1,0 +1,1 @@
+# 3.	Question: Explain the concept of encapsulation in the context of classes and objects.

@@ -1,0 +1,1 @@
+# 5.	Question: What are attributes in a class, and how are they different from methods?
