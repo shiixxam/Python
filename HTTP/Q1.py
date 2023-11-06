@@ -1,11 +1,11 @@
 #  Write a Python code snippet using the requests module to send a GET request to a public API (e.g., JSONPlaceholder) and display the response content. Explain the structure of the response object.
 
-import requests
+# import requests
 
-r = requests.get("https://timesofindia.indiatimes.com/?from=mdr")
+# r = requests.get("https://timesofindia.indiatimes.com/?from=mdr")
 
-print(r.text)
-print(r.status_code)
+# print(r.text)
+# print(r.status_code)
 
 
 import requests
