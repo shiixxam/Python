@@ -1,0 +1,16 @@
+<!-- Given an existing XML file containing information about students (name, age, grade), write a Python script that parses the XML data and identifies students who are above a certain age threshold. Display the names and ages of these students. -->
+
+
+<students>
+  <student>
+    <name>shivam</name>
+    <age>20</age>
+    <grade>A</grade>
+  </student>
+  <student>
+    <name>kiran</name>
+    <age>16</age>
+    <grade>B</grade>
+  </student>
+  ...
+</students>
