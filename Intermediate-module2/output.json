@@ -1,0 +1,1650 @@
+
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+
+<head>
+
+<title>Seva Sadan College of Education</title>
+
+    <!-- Meta -->
+
+    <meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+	<meta name="keywords" content="" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <!-- Title -->
+
+  
+
+    <!-- Web Font -->
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet" />
+
+	<link href="https://fonts.googleapis.com/css?family=Oswald:300,400&amp;display=swap" rel="stylesheet" />
+
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,400i&amp;display=swap" rel="stylesheet" />
+
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+    
+
+    <!-- CSS -->
+
+    <link rel="stylesheet" href="css/owl.carousel.min.css" />
+
+	<link rel="stylesheet" href="css/owl.theme.default.min.css" />
+
+	<link rel="stylesheet" href="css/bootstrap.min.css" />
+
+	<link rel="stylesheet" href="css/animate.min.css" />
+
+	<link rel="stylesheet" href="css/normalize.css" />
+
+	<link rel="stylesheet" href="css/styleeef3.css?v=0.3" />
+
+	<link rel="stylesheet" href="css/responsiveeef3.css?v=0.3" />
+
+	<link rel="stylesheet" href="css/bootstrap-dropdownhover.css" />
+
+	<link rel="stylesheet" href="css/jquery.fancybox.min.css" />
+
+    <!-- Link Swiper's CSS -->
+
+    <link rel="stylesheet" href="../stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+	<link rel="stylesheet" href="../unpkg.com/swiper%408.3.2/swiper-bundle.min.css" />
+
+
+
+    <script src="js/jquery-1.12.4.min.js"></script>
+
+
+
+
+
+    <style>
+
+       
+
+        .modal-body{
+
+            padding:10px 30px;
+
+        }
+
+        .logoText1 {
+
+    text-align: center;
+
+    margin-top:-20px;
+
+}
+
+        .pop1 {
+
+    font-size: 16px;
+
+    margin-bottom: 3px;
+
+    font-weight: 500;
+
+    color: #000;
+
+    text-transform: uppercase;
+
+}
+
+        .pop2 {
+
+        font-size: 24px;
+
+        color: var(--mainColor);
+
+        font-weight: 500;
+
+        text-transform: uppercase;
+
+        margin-bottom: 5px;
+
+        padding-bottom: 10px;
+
+     
+
+}
+
+        .accreditaionSlid1 .posRel img{
+
+             width: auto;
+
+            max-width: 100%;
+
+            height: 255px;
+
+            margin:0px auto;
+
+        }
+
+       
+
+    </style>
+
+</head>
+
+
+
+<body>
+
+ <header class="header">
+
+
+
+
+
+        <!-- Header Inner -->
+
+        <!--/ End Header Inner -->
+
+        <div class="header_top">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-8 col-sm-12">
+
+
+
+                        <div class="logo_hold clearfix">
+
+                            <div class="logoImg">
+
+                                <a href="index.php">
+
+                                    <img alt="" src="https://www.sscoe.edu.in/upload/content/1676462814_logo-sticky.png" / style="width:100%;"></a>
+
+                            </div>
+
+                           <div class="logoText">
+
+                                <h6 class="pro_log"></h6>
+                             <h6 class="pro_log">&nbsp;</h6>
+
+                                <h2 class="mod_log">
+
+Seva Sadan's College of Education</h2>
+
+                                <p class="app_log" style="text-align: center;font-size:12px;">Permanently Affiliated to University of Mumbai,<br/>
+Govt. Aided, Sindhi Linguistic Minority Institution<br/>
+NAAC Accredited with A+ Grade<br/>
+NAAC Reaccredited with A Grade (2nd, 3rd & 4th Cycle)<br/>
+"Best College Award" By University of Mumbai</p>
+
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+
+
+
+                    <div class="col-md-4 col-sm-12 text-right">
+
+                        <div class="logoRight">
+
+
+
+                            <a class="admis" title="Contact Us" href="contact-us.php">Contact Us</a>
+
+
+
+                            
+
+                            <a href="#" target="_blank" title="click to open whatsapp chat" class="btn btn-success" style="color:#fff">
+
+                            <i class="fa fa-whatsapp"></i>  Assistant
+
+                            </a>
+
+                       
+
+                           
+
+
+
+                            <a class="twitt" title="Facebook" target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+
+                           
+
+                            <a class="insta" title="Instagram" href="#"><i class="fa fa-instagram"></i></a>
+
+                            <a class="youtu" title="Youtube" href="#"><i class="fa fa-youtube"></i></a>
+
+                        
+
+
+
+                            <div class="butR">
+
+                              
+
+                                <a class="admis butMob" target="_blank" href=""><i class="fa fa-envelope-o"></i>&nbsp;Admission Enquiry</a>
+
+                                <a class="erpBut" target="_blank" href="#">Login</a>
+
+                                <a href="#" target="_blank" title="" class="btn btn-success butMob" style="color:#fff">
+
+                                 <i class="fa fa-whatsapp"></i> Admission Assistant
+
+                                </a>
+
+                                
+
+                            </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+
+                </div>
+
+                <div class="row">
+
+                    <div class="col-md-12">
+
+                        <div class="marqueHold">
+
+                            <marquee width="100%" behavior="scroll" onmouseover="this.stop()" loop="infinite" onmouseout="this.start()" direction="left" scrollamount="2">
+
+                                      <span> The oldest Teacher Education College in Thane District (Estd. 1966)</span>  
+                                </marquee>
+
+
+                        </div>
+
+
+
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+
+
+        </div>
+
+
+
+        <div class="clearfix">
+
+            <div class="mobile-menu"></div>
+
+        </div>
+
+
+
+        <!-- Header Menu -->
+
+        <div class="header-menu">
+
+            <div class="container navHolder">
+
+
+
+                <div class="navbar navbar-expand-md navbar-dark" role="navigation">
+
+
+
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+
+                        <span class="navbar-toggler-icon"></span>
+
+                    </button>
+
+                    <nav class="collapse navbar-collapse" data-hover="dropdown" data-animations="fadeInUp fadeInRight fadeInUp fadeInLeft" id="navbarCollapse">
+
+                        <ul class="navbar-nav">
+
+                            <li id="home" class="nav-item">
+
+                                <a class="nav-link" href="index.php">Home </a>
+
+                            </li>
+
+							                            <li id="about" class="nav-item dropdown">
+														  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								About </a>
+
+
+                                <ul class="dropdown-menu">
+								
+																  <li class="dropdown-item dropdown">
+								 								 <a href="College-profile.html" >College profile </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Management.html" >Management </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Principal.html" >Principal </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								  <a  href="faculty.php?sub=faculty" >Faculty </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Old-Memories.html" >Old Memories </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="College-Committees.html" >College Committees </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Mandatory-Disclosure.html" >Mandatory Disclosure </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+								                              
+                                </ul>
+							
+							
+							
+							
+						                            </li>
+
+							                            <li id="about" class="nav-item dropdown">
+														  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Courses </a>
+
+
+                                <ul class="dropdown-menu">
+								
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Regular.html" >Regular </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Distance.html" >Distance </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Ph.D.-Center.html" >Ph.D. Center </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+								                              
+                                </ul>
+							
+							
+							
+							
+						                            </li>
+
+							                            <li id="about" class="nav-item dropdown">
+														  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Academic </a>
+
+
+                                <ul class="dropdown-menu">
+								
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Academic-Calender.html" >Academic Calender </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Seminar-and-Conferences.html" >Seminar and Conferences </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Achievements.html" >Achievements </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Alumni-Association.html" >Alumni Association </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Placement-Cell.html" >Placement Cell </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="E-Content.html" >E Content </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Grievance-Redressal-Cell.html" >Grievance Redressal Cell </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Research-and-Development-Cell.html" >Research and Development Cell </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Women-Development-Cell.html" >Women Development Cell </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+								                              
+                                </ul>
+							
+							
+							
+							
+						                            </li>
+
+							                            <li id="about" class="nav-item dropdown">
+														  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								IQAC </a>
+
+
+                                <ul class="dropdown-menu">
+								
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Constitution.html" >Constitution </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="AQARS.html" >AQARS </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="NAAC.html" >NAAC </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Best-Practices.html" >Best Practices </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+								                              
+                                </ul>
+							
+							
+							
+							
+						                            </li>
+
+							                            <li id="about" class="nav-item dropdown">
+														  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Admission </a>
+
+
+                                <ul class="dropdown-menu">
+								
+																  <li class="dropdown-item dropdown">
+								 								  <a  href="notice-board.php" >Notices </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								  <a  href="prospectus.php" >Prospectus  </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								  <a  href="https://forms.edunexttechnologies.com/forms/seva-sadan/reg/instruction.php" >Admission Form  </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+								                              
+                                </ul>
+							
+							
+							
+							
+						                            </li>
+
+							                            <li id="about" class="nav-item dropdown">
+														  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Exam & Results </a>
+
+
+                                <ul class="dropdown-menu">
+								
+																  <li class="dropdown-item dropdown">
+								 								  <a  href="time_table.php" >Time Table </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								  <a  href="result.php" >Results </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+								                              
+                                </ul>
+							
+							
+							
+							
+						                            </li>
+
+							                            <li id="about" class="nav-item dropdown">
+														  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Campus Enrichment </a>
+
+
+                                <ul class="dropdown-menu">
+								
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Infrastructure.html" >Infrastructure </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="Library.html" >Library </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+																  <li class="dropdown-item dropdown">
+								 								 <a href="RTI-ACT.html" >RTI ACT </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+								                              
+                                </ul>
+							
+							
+							
+							
+						                            </li>
+
+							                            <li id="about" class="nav-item dropdown">
+							                               <a href="Feedback.html"  class="nav-link" >
+								Feedback </a>
+						                            </li>
+
+							                            <li id="about" class="nav-item dropdown">
+														  <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Tender </a>
+
+
+                                <ul class="dropdown-menu">
+								
+																  <li class="dropdown-item dropdown">
+								 								  <a  href="rusa-tender.php" >RUSA Tender </a>
+								 								 
+								 								 
+								 
+								  
+								  </li>
+								                              
+                                </ul>
+							
+							
+							
+							
+						                            </li>
+
+							                          
+                          
+                          
+
+                           <li id="home" class="nav-item">
+
+                                <a class="nav-link" href="Photo-Gallery.html">Photo Gallery </a>
+
+                            </li>
+                          
+                      
+                      
+                        </ul>
+
+
+                    </nav>
+
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+        </div>
+
+    </header>
+
+
+
+
+
+
+
+
+
+
+<!--- Slider ----->
+
+
+
+
+
+  <div class="sliderWrapper home-slider wow fadeInUp">
+
+           <div class="container">
+
+               <div class="row no-gutters sliderShadow">
+
+                   <div class="col-md-8">
+
+                       <div class="slider-active">
+
+                           <!-- Slide1 -->
+
+                           <div>
+
+                               <img alt="" src="img/new_banner1.jpg" />
+
+                               <div class="slider-text">
+
+                                   <h1><i class="fa fa-caret-right"></i>Welcome to Seva Sadan's College of Education</h1>
+
+                               </div>
+
+                           </div>
+
+                           <div>
+
+                               <img alt="" src="img/new_banner2.jpg" />
+
+                               <div class="slider-text">
+
+                                   <h1><i class="fa fa-caret-right"></i>Best College in Ulhasnagar, Thane</h1>
+
+                               </div>
+
+                           </div>
+
+                           <div>
+
+                               <img alt="" src="img/new_banner3.jpg" />
+
+                               <div class="slider-text">
+
+                                   <h1><i class="fa fa-caret-right"></i>B.Ed. Programme College in Ulhasnagar, Thane</h1>
+
+                               </div>
+
+                           </div>
+
+                        
+
+                           <!--/ End Slide2 -->
+
+                       </div>
+
+                   </div>
+
+                   <div class="col-md-4">
+
+                       <div class="homVisMis">
+
+                           <div class="deskWrap mb-2">
+
+                               <h2 class="title">I/c Principal's Message
+
+                            <span></span>
+
+                               </h2>
+
+                               <div class="row mt-2">
+
+                                   <div class="col-md-8 col-7">
+
+                                       <p>
+
+                                         Welcome to Seva Sadan's College of Education.<br/>
+
+Seva Sadan’s College of Education is one of the oldest and premier college of Education established in 1966 to actualize the mission of providing quality teacher education. Seva Sadan’s College of Education strives to contribute towards developing tomorrow’s teachers equipped with the values of compassion and commitment.<br/><br/><a class="readmore" href="Principal.html">Read More</a>
+
+                                       </p>
+
+                                   </div>
+
+                                   <div class="col-md-4 col-5">
+
+                                       <img class="imgMessages  mt-1" src="https://www.sscoe.edu.in/upload/content/1676462984_principal.jpg">
+
+                                   </div>
+
+                               </div>
+
+                           </div>
+
+                           
+
+                           </div>
+
+                           
+
+                           
+
+                           
+
+
+
+                           
+
+                       </div>
+
+                   </div>
+
+               </div>
+
+           </div>
+
+    </div>
+
+
+
+ <div class="container">
+
+           <div class="top_Blocks">
+
+               <div class="row">
+
+			   
+
+                   <div class="col-md-4 wow fadeInLeft" data-wow-offset="100">
+<a href="https://forms.edunexttechnologies.com/forms/seva-sadan/reg/instruction.php"><p class="htabr">Admission</p></a>
+
+                   </div>
+				    <div class="col-md-4 wow fadeInLeft" data-wow-offset="100">
+<a href="result.php"><p class="htabr">Result</p></a>
+
+                   </div>
+				   
+				     <div class="col-md-4 wow fadeInLeft" data-wow-offset="100">
+<a href="time_table.php"><p class="htabr">Time Table</p></a>
+
+                   </div>
+				   
+                   </div>
+                   </div>
+                   </div>
+
+
+
+
+<!--- Slider ----->
+
+
+
+   <!-- blocks -->
+
+       <div class="container">
+
+           <div class="top_Blocks">
+
+               <div class="row">
+
+			   
+
+                   <div class="col-md-6 wow fadeInLeft" data-wow-offset="100">
+
+                       <h2 class="title">NEWS ANNOUNCEMENT
+
+                        <span></span>
+
+                       </h2>
+
+                       <div class="blocks ">
+
+                           <div class="minh">
+
+                               <ul class="fixBlock news-demo-down-auto3">
+
+
+                                     <li class="blockContent news-item">
+
+                                       <div class="row no-gutters ">
+
+                                           <div class="col-1">
+
+                                               <img alt="" src="images/mic.png" />
+
+                                           </div>
+
+                                           <div class="col-11">
+
+                                               <p>                                                
+
+                                                   NAAC PEER TEAM VISIT ON 5th & 6th Sept. 2023
+                                               </p>                                             
+                                               <span class="blockDate">on 02-Sep-2023<span class="newlbl">New</span></span>
+
+                                           </div>
+
+                                       </div>
+
+                                   </li>
+						                               </ul>
+
+                           </div>
+
+                       </div>
+
+                       <div class="viewAllWrap">
+
+                           <a class="readmore" href="news.php">View All News</a>
+
+                       </div>
+
+                   </div>
+
+				   
+
+				   
+
+				   
+
+				   
+
+				   
+
+				   
+
+				   
+
+				   
+
+				   
+
+				   
+
+				   
+
+				   
+
+                   <div class="col-md-6 wow fadeInUp" data-wow-offset="100">
+
+                       <h2 class="title">NOTICE BOARD
+
+                        <span></span>
+
+                       </h2>
+
+                       <div class="blocks">
+
+                           <div class="minh">
+
+                               <ul class="fixBlock news-demo-down-auto2">
+                                    <li class="blockContent news-item">
+
+                                       <div class="row no-gutters ">
+
+                                           <div class="col-1">
+
+                                               <img alt="" src="images/mic.png" />
+
+                                           </div>
+
+                                           <div class="col-11">
+
+                                               <p>                                                
+
+                                                    <a target="_blank" class="newAnnlink" href="https://bedcap23.mahacet.org/Public/Notifications.aspx?NotificationCategoryID=7">Brochure & User Manual									 
+									 </a>
+
+                                               </p>                                             
+                                               
+
+                                           </div>
+
+                                       </div>
+
+                                   </li>
+						                                   <li class="blockContent news-item">
+
+                                       <div class="row no-gutters ">
+
+                                           <div class="col-1">
+
+                                               <img alt="" src="images/mic.png" />
+
+                                           </div>
+
+                                           <div class="col-11">
+
+                                               <p>                                                
+
+                                                    <a target="_blank" class="newAnnlink" href="https://bedcap23.mahacet.org/Public/Notifications.aspx?NotificationCategoryID=4">Admission Schedule 2023-2024									 
+									 </a>
+
+                                               </p>                                             
+                                               
+
+                                           </div>
+
+                                       </div>
+
+                                   </li>
+						                                   <li class="blockContent news-item">
+
+                                       <div class="row no-gutters ">
+
+                                           <div class="col-1">
+
+                                               <img alt="" src="images/mic.png" />
+
+                                           </div>
+
+                                           <div class="col-11">
+
+                                               <p>                                                
+
+                                                    <a target="_blank" class="newAnnlink" href="https://www.sscoe.edu.in/upload/content/1693824061_WhatsApp Image 2023-09-04 at 2.45.50 PM.pdf">B.Ed. Sem - IV Summer Session 2023									 
+									 </a>
+
+                                               </p>                                             
+                                               
+
+                                           </div>
+
+                                       </div>
+
+                                   </li>
+						
+                                   
+
+                               </ul>
+
+                           </div>
+
+                           
+
+                       </div>
+
+
+
+                       <div class="viewAllWrap">
+
+                           <a class="readmore" href="notice-board.php">View All Notices</a>
+
+                       </div>
+
+                   </div>
+
+                  
+
+                       
+
+                   </div>
+
+               </div>
+
+           </div>
+
+       </div>
+
+
+
+
+
+
+
+
+<!--
+
+
+ <div class="photoGalleryWrap">
+
+            <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-4 wow fadeInUp" data-wow-offset="100">
+
+                    <h2 class="title">
+
+                        Photos
+
+                        <span></span>
+
+                    </h2>
+
+                    <div class="photoWrap adjSliderNav">
+
+                        <div>
+
+                             <div class="posRel">
+
+                                
+
+                                <img alt="" src="images/photos/Academics/image2.jpg">
+
+                                <div class="team-hover">
+
+                                  
+
+                                    <a class="faclink" href="#"> More &nbsp;<i class="fa fa-angle-right"></i></a>
+
+                                </div>
+
+
+
+                            </div>
+
+                            <span class="smTitle">Album1 </span>
+
+                        </div>
+
+                       <div>
+
+                             <div class="posRel">
+
+                                 <img src="images/photos/Technical/image2.jpg" />
+
+                               
+
+                                <div class="team-hover">
+
+                                    <a class="faclink" href="#"> More &nbsp;<i class="fa fa-angle-right"></i></a>
+
+                                </div>
+
+
+
+                            </div>
+
+                            <span class="smTitle">Album2</span>
+
+                        </div>
+
+                        
+
+                            
+
+                        
+
+                    </div>
+
+                   
+
+                   
+
+                </div>
+
+                <div class="col-md-8 wow fadeInUp" data-wow-offset="100">
+
+                    <h2 class="title">
+
+                        VIDEOS
+
+                        <span></span>
+
+                    </h2>
+
+                    <div class="videoWrap">
+
+                               
+
+                        <div class="row">
+
+                            <div class="col-md-6 col-6">
+
+                                <div class="vid-Hold">
+
+                                      <div class="imgVid1">
+
+                                           <iframe width="100%" height="220" src="https://www.youtube.com/embed/Y5d26BnIVwA" title="" A Symbiosis of Human Value and Human Rights: A Collective Path to Women Empowerment"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                                        </div>
+
+                                        <h2 class="smTitle"> " A Symbiosis of Human Value and Human Rights: A Collective Path to Women Empowerment"</h2>
+
+
+
+                                </div>
+
+                              
+
+                            </div>
+
+                            <div class="col-md-6 col-6">
+
+                                 <div class="vid-Hold">
+
+                                 <div class="imgVid1">
+
+                                           <iframe width="100%" height="220" src="https://www.youtube.com/embed/Y5d26BnIVwA" title="" A Symbiosis of Human Value and Human Rights: A Collective Path to Women Empowerment"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                                        </div>
+
+                                        <h2 class="smTitle"> " A Symbiosis of Human Value and Human Rights: A Collective Path to Women Empowerment"</h2>
+
+
+
+                                     </div>
+
+                            </div>
+
+                                   
+
+                        </div>
+
+                    </div>
+
+                    <div class="text-center mt-2">
+
+                         <a class="readmore" href="videos.html">View All Videos</a>
+
+                    </div>
+
+                </div>
+
+                </div>
+
+            </div>                
+
+        </div>
+ ---->
+
+
+
+
+
+
+ <!-- <div class="departmentWrap">
+
+        <div class="container">
+
+                      
+
+                <div class="row">
+
+                    <div class="col-md-12">
+
+                    <ul class="nav nav-tabs text-center" role="tablist">
+
+                        <li class="nav-item wow fadeInDown" data-wow-delay="0.1s">
+
+                            <a class="nav-link active" data-toggle="tab" href="#department">Under-Graduate Courses</a>
+
+                            <span class="fa fa-caret-down"></span>
+
+                        </li>
+
+                        <li class="nav-item wow fadeInDown" data-wow-delay="0.2s">
+
+                            <a class="nav-link" data-toggle="tab" href="#studentChapters">Post -Graduate Courses</a>
+
+                            <span class="fa fa-caret-down"></span>
+
+                        </li>
+
+                       
+
+                        
+
+                       
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+                <div class="row wow bounceInUp" data-wow-offset="100">
+
+                    <div class="col-md-12">
+
+                        <div class="tab-content AdjustTab">
+
+                          
+
+							
+
+							  <div id="department" class="tab-pane fade active show">
+
+                                <div class="studentChapSlider">
+
+                                    <div>
+
+                                             <div class="blockChap">
+
+                                                  <h2 >B.A.</h2>
+
+                                                        
+
+                                              </div>
+
+                                            
+
+                                    </div>
+
+									   <div>
+
+                                               <div class="blockChap">
+
+                                                  <h2 >B. Sc.</h2>
+
+                                                            
+
+                                              </div>
+
+                                               
+
+                                    </div>
+
+                                    <div>
+
+                                               <div class="blockChap">
+
+                                                  <h2 >B. Com.</h2>
+
+                                                            
+
+                                              </div>
+
+                                               
+
+                                    </div>
+
+                                  
+
+                              
+
+                                </div>
+
+                                                   
+
+
+
+                            </div>
+
+                            <div id="studentChapters" class="tab-pane fade">
+
+                                <div class="studentChapSlider">
+
+                                    <div>
+
+                                             <div class="blockChap">
+
+                                                  <h2 >M.A.</h2>
+
+                                                        
+
+                                              </div>
+
+                                            
+
+                                    </div>
+
+									   <div>
+
+                                               <div class="blockChap">
+
+                                                  <h2 >M. Sc.</h2>
+
+                                                            
+
+                                              </div>
+
+                                               
+
+                                    </div>
+
+                                    <div>
+
+                                               <div class="blockChap">
+
+                                                  <h2 >M. Com.</h2>
+
+                                                            
+
+                                              </div>
+
+                                               
+
+                                    </div>
+
+                                  
+
+                              
+
+                                </div>
+
+                                                   
+
+
+
+                            </div>
+
+                           
+
+                           
+
+                       
+
+                        </div>
+
+                    </div>
+
+                </div>    
+
+        </div>
+
+        </div>  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <footer class="footer wow fadeInUp">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-3">
+                    <h4 class="footheading">About</h4>
+                    <div class="single-widget useful-links ml-col-3">
+
+                       
+                         <ul>
+                            <li><i class="fa fa-angle-right"></i>College Profile </li>
+                            <li><i class="fa fa-angle-right"></i>Management</li>
+                            <li><i class="fa fa-angle-right"></i>Principal</li>
+                            <li><i class="fa fa-angle-right"></i>Faculty</li>
+                            
+
+                        </ul>
+                        <div class="socialIcBlock">
+                            <a class="socialIc faceb" target="_blank" href="#">
+                                <i class="fa fa-facebook"></i>
+                            </a>
+                           
+                            <a class="socialIc insta" target="_blank" href="#">
+                                <i class="fa fa-instagram"></i>
+                            </a>
+                            <a class="socialIc youtu" target="_blank" href="#">
+                                <i class="fa fa-youtube"></i>
+                            </a>
+                          
+
+
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <h4 class="footheading">COURSES </h4>
+                    <div class="single-widget useful-links ml-col-3">
+
+                        <ul>
+                            <li><a  href="#"><i class="fa fa-angle-right"></i>Regular</a></li>
+                            <li><a target="_blank" href="#"><i class="fa fa-angle-right"></i>Distance</a></li>                            <li><a target="_blank" href="#"><i class="fa fa-angle-right"></i>Ph.D. Center</a></li>                            <li><a target="_blank" href="#"><i class="fa fa-angle-right"></i>Add-On</a></li>
+                         
+                           
+                        </ul>
+
+                    </div>
+
+
+                </div>
+                <div class="col-md-3">
+                    <h4 class="footheading">Quick links </h4>
+                    <div class="single-widget useful-links ml-col-3">
+                        <ul>
+                            <li><a href="https://www.ugc.ac.in/"><i class="fa fa-angle-right"></i>https://www.ugc.ac.in                              </a></li>
+                           
+
+                          
+                             <li><a target="_blank"  href="https://ncte.gov.in/Website/Hindi/Index.aspx"><i class="fa fa-angle-right"></i>https://ncte.gov.in</a></li>
+                          
+                            <li><a target="_blank"  href="http://naac.gov.in/"><i class="fa fa-angle-right"></i>naac.gov.in</a></li>
+                          
+                            <li><a target="_blank"  href="https://mu.ac.in "><i class="fa fa-angle-right"></i>https://mu.ac.in</a></li>
+                            
+                           
+                            
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3">
+
+                    <div class="contFooter">
+                        <h2 class="contFootHead">
+Seva Sadan's College of Education</h2>
+                        <div class="mt-1">
+                            <i class="fa fa-map-marker"></i>Seva Sadan Marg,<br/>Opp. Central Hospital,<br/>Ulhasnagar - 421 003.<br/>Dist: Thane, Maharashtra, INDIA
+                        </div>
+                        <div class="mt-1">
+                            <i class="fa fa-envelope-o"></i>sevasadanunr@gmail.com
+                        </div>
+                       <div class="mt-1">
+                            <i class="fa fa-envelope-o"></i>office@sscoe.edu.in
+                        </div>
+                        <div class="mt-1">
+                            <i class="fa fa-phone"></i><span class="photNo">+0251-2712065</span>
+                        </div>
+                        <div class="mt-1">
+                            <i class="fa fa-fax"></i><span class="photNo">+0251-2712065</span>
+                        </div>
+
+                    </div>
+
+
+
+
+                </div>
+            </div>
+        </div>
+        <div class="copyr">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        © Copyright 2023 Seva Sadan Trust
+                            
+                    </div>
+                    <div class="col-md-6 designDev">
+                        Designed And Maintained By <a href="https://www.digimadez.com">Digimadez</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+
+
+
+<!-- Jquery JS-->
+
+    <script src="js/bootstrap.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/jquery.scrollUp.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/bootstrap-dropdownhover.js"></script>
+    <script src="js/facnybox.min.js"></script>
+    <script src="js/jquery.bootstrap.newsbox.min.js"></script>
+
+    <script>
+        $(function () {
+
+
+            $(".news-demo-down-auto").bootstrapNews({
+                newsPerPage: 1,
+                autoplay: true,
+                pauseOnHover: false,
+                navigation: false,
+                direction: 'up',
+                newsTickerInterval: 3000,
+                onToDo: function () {
+                }
+            });
+            $(".news-demo-down-auto1").bootstrapNews({
+                newsPerPage: 2,
+                autoplay: true,
+                pauseOnHover: false,
+                navigation: false,
+                direction: 'up',
+                newsTickerInterval: 3000,
+                onToDo: function () {
+                }
+            });
+            $(".news-demo-down-auto2").bootstrapNews({
+                newsPerPage: 5,
+                autoplay: true,
+                pauseOnHover: false,
+                navigation: false,
+                direction: 'up',
+                newsTickerInterval: 3000,
+                onToDo: function () {
+                }
+            });
+            $(".news-demo-down-auto3").bootstrapNews({
+                newsPerPage: 4,
+                autoplay: true,
+                pauseOnHover: false,
+                navigation: false,
+                direction: 'up',
+                newsTickerInterval: 3000,
+                onToDo: function () {
+                }
+            });
+
+
+        });
+    </script>
+    
+
+
+
+
+</body>
+
+</html>
